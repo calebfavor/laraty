@@ -1,0 +1,13 @@
+{
+    "name": "calebfavor/laraty",
+    "description": "Entity system for laravel 5.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Caleb Favor",
+            "email": "caleb@drumeo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
